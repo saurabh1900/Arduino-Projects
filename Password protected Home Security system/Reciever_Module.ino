@@ -1,7 +1,6 @@
 /*
 Project     : Home Security System (Reciever Module)
 Developer   : Saurabh Agrawal
-Roll. No.   : 130002033
 Components  : Arduino UNO , Keypad , LCD (16x2) , RF Reciever,
               Buzzer , LEDs , Battery (9V) ; 
 */
