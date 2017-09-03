@@ -1,7 +1,6 @@
 /*
 Project     : Home Security System (Transmitter Module)
 Developer   : Saurabh Agrawal
-Roll. No.   : 130002033
 Components  : Arduino NANO , RF Transmitter, PIR sensor(2)
               Buzzer , LEDs , Battery (9V) , Switch ; 
 */
